@@ -2,14 +2,14 @@
   "ads": {
     "id_app": "5fa032c9d1c04c042b151371",
     "flury_id": "",
-    "banner_setting": "ca-app-pub-4084941899768286/8292783796",
-    "inter_setting": "ca-app-pub-4084941899768286/4353538784",
-    "banner_main": "ca-app-pub-4084941899768286/3232028804",
-    "inter_main": "ca-app-pub-4084941899768286/1918947132",
-    "banner_setting_new" : "ca-app-pub-4084941899768286/8292783796",
-    "inter_setting_new" : "ca-app-pub-4084941899768286/4353538784",
-    "banner_main_new" : "ca-app-pub-4084941899768286/3232028804",
-    "inter_main_new" : "ca-app-pub-4084941899768286/1918947132",
+    "banner_setting": "ca-app-pub-3399710561924220/6626978750",
+    "inter_setting": "ca-app-pub-3399710561924220/2399140897",
+    "banner_main": "ca-app-pub-3399710561924220/6626978750",
+    "inter_main": "ca-app-pub-3399710561924220/7496033837",
+    "banner_setting_new" : "ca-app-pub-3399710561924220/6626978750",
+    "inter_setting_new" : "ca-app-pub-3399710561924220/2399140897",
+    "banner_main_new" : "ca-app-pub-3399710561924220/6626978750",
+    "inter_main_new" : "ca-app-pub-3399710561924220/7496033837",
     "onlyAdmod": true,
     "onlyFB": false,
     "fb_banner": "",
@@ -23,7 +23,7 @@
    "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false
+    "isShowAds": true
   },
   "apps": [
    {
